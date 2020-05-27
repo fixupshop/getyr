@@ -1,2 +1,0 @@
-# getyr.github.io
-sdfw
